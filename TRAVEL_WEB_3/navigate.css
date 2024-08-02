@@ -2,6 +2,12 @@
     margin-top: 120px;
     margin-left: 46px;
 }
+.navigate2{
+    margin-top: 120px;
+    margin-left: 46px;
+    /* border: solid 2px black; */
+    
+}
 iframe{
    width: 400px;
    height: 400px;
@@ -15,5 +21,9 @@ iframe{
     iframe{
        width: 500px;
        height: 500px;
+    }
+     .navigate2{
+        margin-top: 120px;
+        margin-left: 500px;
     }
 }
